@@ -1,0 +1,6 @@
+[submodule "inventory_manager_frontend"]
+	path = inventory_manager_frontend
+	url = https://github.com/psuedoo/inventory_manager_frontend
+[submodule "inventory_manager_backend"]
+	path = inventory_manager_backend
+	url = https://github.com/psuedoo/inventory_manager_backend
